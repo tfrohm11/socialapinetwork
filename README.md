@@ -1,6 +1,6 @@
 # 18 NoSQL: Social Network API
 
-## User Storu
+## User Story
 ### As a social media startup i want an API for my social network that uses a NoSQL database so that my website can handle large amounts of unstructured data
 
 ## Application Run Down
